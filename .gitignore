@@ -1,2 +1,23 @@
+# Next.js
+.next/
+out/
+
+# Node modules
 node_modules/
-.env*
+
+# TypeScript
+*.tsbuildinfo
+
+# Environment variables
+.env.local
+.env.development
+.env.production
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# VSCode
+.vscode/
